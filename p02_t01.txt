@@ -1,0 +1,2 @@
+1. Crear repositorio en GitHub y subir el primer commit. 
+2. 
